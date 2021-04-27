@@ -253,7 +253,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/zA8zZ6BWehA"
+                 "value":"https:\/\/www.youtube.com\/embed\/OU3699R53rs"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -2809,6 +2809,32 @@
          "name":"mic",
          "spacing":0,
          "tilecount":40,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":7,
+         "firstgid":1983,
+         "image":"guitar.png",
+         "imageheight":245,
+         "imagewidth":245,
+         "margin":0,
+         "name":"vv",
+         "spacing":0,
+         "tilecount":49,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":7,
+         "firstgid":2032,
+         "image":"guitar.png",
+         "imageheight":245,
+         "imagewidth":245,
+         "margin":0,
+         "name":"guitar",
+         "spacing":0,
+         "tilecount":49,
          "tileheight":32,
          "tilewidth":32
         }],
